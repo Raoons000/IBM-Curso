@@ -1,0 +1,283 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "3662be3c-3106-4dee-b26d-deea0a15649d",
+   "metadata": {},
+   "source": [
+    "# Primeiro texto"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f0c5a6f1-29f8-4013-befc-f4056b2380a9",
+   "metadata": {},
+   "source": [
+    "# Primeiro texto"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0c5d1885-08e2-479b-b961-88002b35cff6",
+   "metadata": {},
+   "source": [
+    "# Segundo texto\n",
+    "## Descrição\n",
+    "Este notebook tem como objetivo explorar dados, aplicar técnicas de análise estatística e visualizar os resultados utilizando a linguagem R/Python."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "40806f04-9dcd-426f-a43a-426ead197e56",
+   "metadata": {},
+   "source": [
+    "# Segundo texto\n",
+    "## Descrição\n",
+    "Este notebook tem como objetivo explorar dados, aplicar técnicas de análise estatística e visualizar os resultados utilizando a linguagem R/Python."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8d9a3971-ab12-4946-8646-65b0c03f3cb4",
+   "metadata": {},
+   "source": [
+    "# Terceiro texto \n",
+    "## Linguagens na ciência de dados \n",
+    "- **Python**: Ampla comunidade, fácil de aprender, rica em bibliotecas como Pandas, NumPy, Scikit-learn, Matplotlib e TensorFlow.\n",
+    "- **R**: Excelente para análise estatística e visualização de dados. Muito utilizado no meio acadêmico e por estatísticos.\n",
+    "- **SQL**: Essencial para extração e manipulação de dados em bancos relacionais."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "77320af8-f12d-4dd9-be86-490f5c0838ab",
+   "metadata": {},
+   "source": [
+    "# Terceiro texto \n",
+    "## Linguagens na ciência de dados \n",
+    "- **Python**: Ampla comunidade, fácil de aprender, rica em bibliotecas como Pandas, NumPy, Scikit-learn, Matplotlib e TensorFlow.\n",
+    "- **R**: Excelente para análise estatística e visualização de dados. Muito utilizado no meio acadêmico e por estatísticos.\n",
+    "- **SQL**: Essencial para extração e manipulação de dados em bancos relacionais."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "deb068cf-a900-41dc-9266-846cc401d834",
+   "metadata": {},
+   "source": [
+    "# Quarto texto\n",
+    "## Bibliotecas na ciência de dados \n",
+    "### Python\n",
+    "- **Pandas**: Manipulação e análise de dados em formato tabular.\n",
+    "- **NumPy**: Operações matemáticas e vetoriais eficientes.\n",
+    "- **Matplotlib / Seaborn**: Criação de visualizações e gráficos.\n",
+    "### R\n",
+    "- **dplyr**: Manipulação de dados de forma eficiente e legível.\n",
+    "- **ggplot2**: Visualização de dados com gráficos elegantes.\n",
+    "- **tidyr**: Organização e limpeza de dados."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c25595b8-bed4-4766-bd53-ba4ef134e7d1",
+   "metadata": {},
+   "source": [
+    "# Quarto texto\n",
+    "## Bibliotecas na ciência de dados \n",
+    "### Python\n",
+    "- **Pandas**: Manipulação e análise de dados em formato tabular.\n",
+    "- **NumPy**: Operações matemáticas e vetoriais eficientes.\n",
+    "- **Matplotlib / Seaborn**: Criação de visualizações e gráficos.\n",
+    "### R\n",
+    "- **dplyr**: Manipulação de dados de forma eficiente e legível.\n",
+    "- **ggplot2**: Visualização de dados com gráficos elegantes.\n",
+    "- **tidyr**: Organização e limpeza de dados."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "514e4056-e7ee-42a2-853f-2e4210eecb78",
+   "metadata": {},
+   "source": [
+    "# Quinto texto\n",
+    "## Tabela com ferramentas para ciência de dados \n",
+    "| Ferramenta       | Descrição                                                    | Principal Uso                          |\n",
+    "|------------------|--------------------------------------------------------------|----------------------------------------|\n",
+    "| Jupyter Notebook | Ambiente interativo para código, visualizações e anotações   | Prototipagem e documentação de projetos|\n",
+    "| RStudio          | IDE para linguagem R com suporte a visualizações e pacotes   | Análise estatística com R              |\n",
+    "| VS Code          | Editor de código leve com suporte a múltiplas linguagens     | Desenvolvimento geral e notebooks      |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "628d57d2-8355-41d9-a745-a05c7917e201",
+   "metadata": {},
+   "source": [
+    "# Quinto texto\n",
+    "## Tabela com ferramentas para ciência de dados \n",
+    "| Ferramenta       | Descrição                                                    | Principal Uso                          |\n",
+    "|------------------|--------------------------------------------------------------|----------------------------------------|\n",
+    "| Jupyter Notebook | Ambiente interativo para código, visualizações e anotações   | Prototipagem e documentação de projetos|\n",
+    "| RStudio          | IDE para linguagem R com suporte a visualizações e pacotes   | Análise estatística com R              |\n",
+    "| VS Code          | Editor de código leve com suporte a múltiplas linguagens     | Desenvolvimento geral e notebooks      |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "707d13a1-0ead-41ee-ac38-13a5d7f54dc9",
+   "metadata": {},
+   "source": [
+    "# Sexto texto\n",
+    "## Expressões aritiméticas \n",
+    "| Expressão           | Descrição                         | Resultado Esperado |\n",
+    "|---------------------|-----------------------------------|--------------------|\n",
+    "| `2 + 3`             | Soma                              | 5                  |\n",
+    "| `7 - 4`             | Subtração                         | 3                  |\n",
+    "| `5 * 6`             | Multiplicação                     | 30                 |\n",
+    "| `10 / 2`            | Divisão                           | 5.0                |\n",
+    "| `2 ** 3` (Python)   | Potência (2 elevado à 3ª potência)| 8                  |\n",
+    "| `10 % 3`            | Módulo (resto da divisão)         | 1                  |\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b64611b6-b239-4ff0-bf59-64cf0c63fd39",
+   "metadata": {},
+   "source": [
+    "# Sexto texto\n",
+    "## Expressões aritiméticas \n",
+    "| Expressão           | Descrição                         | Resultado Esperado |\n",
+    "|---------------------|-----------------------------------|--------------------|\n",
+    "| `2 + 3`             | Soma                              | 5                  |\n",
+    "| `7 - 4`             | Subtração                         | 3                  |\n",
+    "| `5 * 6`             | Multiplicação                     | 30                 |\n",
+    "| `10 / 2`            | Divisão                           | 5.0                |\n",
+    "| `2 ** 3` (Python)   | Potência (2 elevado à 3ª potência)| 8                  |\n",
+    "| `10 % 3`            | Módulo (resto da divisão)         | 1                  |\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "5a97977a-309c-4eea-b0a8-9c1ecaa970da",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Resultado da soma: 7\n",
+      "Resultado da multiplicação: 10\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Multiplicação de numeros \n",
+    "\n",
+    "a = 5\n",
+    "b = 2 \n",
+    "c = a * b \n",
+    "d = a + b\n",
+    "\n",
+    "print(\"Resultado da soma:\",d)\n",
+    "print (\"Resultado da multiplicação:\", c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "8fedd449-cbda-4424-94d8-4eac532c325b",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "minutos 120 em horas 2.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Minutos em horas\n",
+    "\n",
+    "m = 120\n",
+    "h = m / 60\n",
+    "\n",
+    "print(f\"minutos {m} em horas {h:2}\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "59a4f044-514a-49a2-89b9-3be5862d5852",
+   "metadata": {},
+   "source": [
+    "# Setimo texto \n",
+    "## Objetivos \n",
+    "- Entender os conceitos básicos de ciência de dados.\n",
+    "- Aprender a usar notebooks Jupyter para análise de dados.\n",
+    "- Explorar linguagens populares como Python e R.\n",
+    "- Conhecer as principais bibliotecas e ferramentas de ciência de dados.\n",
+    "- Desenvolver habilidades para visualização de dados.\n",
+    "- Aplicar técnicas de análise exploratória e modelagem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3933ff52-4d23-45ed-9e63-2257aef2571d",
+   "metadata": {},
+   "source": [
+    "# Setimo texto \n",
+    "## Objetivos \n",
+    "- Entender os conceitos básicos de ciência de dados.\n",
+    "- Aprender a usar notebooks Jupyter para análise de dados.\n",
+    "- Explorar linguagens populares como Python e R.\n",
+    "- Conhecer as principais bibliotecas e ferramentas de ciência de dados.\n",
+    "- Desenvolver habilidades para visualização de dados.\n",
+    "- Aplicar técnicas de análise exploratória e modelagem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b0cf0000-a528-41cd-964a-1b671f17c0a9",
+   "metadata": {},
+   "source": [
+    "# Oitavo texto\n",
+    "## Autor \n",
+    "**Sou eu Ramon VF Reis**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ddba8229-ceb8-46a4-b38e-a5ff4c78ecc6",
+   "metadata": {},
+   "source": [
+    "# Oitavo texto\n",
+    "## Autor \n",
+    "**Sou eu Ramon VF Reis**"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
